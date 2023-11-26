@@ -1,0 +1,22 @@
+plugins:
+  magicmatching_enabled:
+    default: false
+  magicmatching_automatching_enabled:
+    default: true
+    client: true
+  magicmatching_api_url:
+     default: 'https://cnsuzprzlkusdsuwrfro.supabase.co'
+     client: false
+  magicmatching_webhook_url:
+     default: ''
+     client: false
+  magicmatching_admin_channel_id:
+    default: ''
+    client: false
+  magicmatching_post_watch_categories:
+    client: false
+    default: ''
+    type: category_list
+  magicmatching_debug_webhook_payloads:
+    default: false
+    hidden: true

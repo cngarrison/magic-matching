@@ -1,0 +1,12 @@
+{
+  "imports": {
+    "@supabase/supabase-js": "https://esm.sh/@supabase/supabase-js@2.33.1",
+    "std/server": "https://deno.land/std@0.201.0/http/server.ts",
+    "openai": "https://esm.sh/openai@4.0.0",
+    "transformers": "https://cdn.jsdelivr.net/npm/@xenova/transformers@2.5.0",
+    "xhr_polyfill": "https://deno.land/x/xhr@0.3.1/mod.ts",
+    "jose": "https://deno.land/x/jose@v4.14.6/index.ts",
+    "djwt": "https://deno.land/x/djwt@2.0.2/mod.ts",
+    "postgres": "https://deno.land/x/postgresjs@v3.3.5/mod.js"
+  }
+}

@@ -1,0 +1,10 @@
+en:
+  site_settings:
+    magicmatching_enabled: "Enable Magic Matching"
+    magicmatching_automatching_enabled: "Enable automatic matching using Magic Matching"
+    magicmatching_api_url: "The URL for the Magic Matching API"
+    magicmatching_webhook_url: "The URL for the Dicsourse callback webhook - uses `#{Discourse.base_url}/magic-matching/webhook.json` if left blank"
+    magicmatching_admin_channel_id: "The id of your admin text channel on Discord"
+    magicmatching_post_watch_categories: "Watch for new Posts in these categories"
+  magic-matching:
+    title: "Magic Matching"

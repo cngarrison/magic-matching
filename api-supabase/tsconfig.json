@@ -1,0 +1,8 @@
+{
+	"compilerOptions": {
+		// ... other options
+		"allowImportingTsExtensions": true,
+		"lib": ["es2015", "dom"], // Include ES2015 standard library and DOM types
+		"deno.importMap": "./supabase/functons/import_map.json",
+	}
+}
